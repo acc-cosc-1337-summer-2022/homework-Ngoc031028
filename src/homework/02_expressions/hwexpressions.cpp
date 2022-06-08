@@ -10,11 +10,6 @@ int add_numbers(int num1, int num2)
 
 //Declare a const double tax_rate variable with value 6.75
 const double tax_rate = 6.75;
-//example
-int add_numbers(int num1, int num2)
-{
-	return num1 + num2;
-}
 
 //write function code here
 
